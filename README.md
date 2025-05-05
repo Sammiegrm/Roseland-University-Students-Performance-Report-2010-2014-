@@ -5,6 +5,7 @@ This dataset captures the academic performance of students at Roseland Universit
 I recently explored an insightful performance dashboard analyzing Roseland University students across several key metrics from 2010 to 2014. Here's a quick summary of the findings:
 
 🔍 Key Insights:
+
 🎓 Best Graduating Year: 2011 – highest performance and CGPA average.
 
 🧠 Smartest & Most Influential City: Chicago – produced the most brilliant students and had the highest performance influence.
