@@ -6,11 +6,17 @@ I recently explored an insightful performance dashboard analyzing Roseland Unive
 
 🔍 Key Insights:
 🎓 Best Graduating Year: 2011 – highest performance and CGPA average.
+
 🧠 Smartest & Most Influential City: Chicago – produced the most brilliant students and had the highest performance influence.
+
 👩‍🎓 Top Performing Gender: Female – significantly outperforming male students.
+
 🥇 Overall Brilliant Student: Alice – with an exceptional CGPA of 4.99.
+
 📈 CGPA Trend: A steady decline from 27.63% (2011) to 10.79% (2010) indicates a need for performance revival.
+
 🏙️ Top Cities: Chicago, Miami, and Atlanta led with the highest number of top-performing students.
+
 🧬 Best Performing Department (100L): ICE (163 students).
 
 ✅ Recommendations:
